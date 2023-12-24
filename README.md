@@ -12,9 +12,9 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 ``````
 # Register No:23013556
 # Developed By:vinodhini.k
-# 1-Norm of a Matrix
+
 ``````
-python
+# 1-Norm of a Matrix
 ``````
 import numpy as np
 array=([[-1,3],[3,-4],[1,7]])
@@ -51,11 +51,14 @@ print(Norm_of_matrix)
 
 ## Output:
 ### 1-Norm of a Matrix
-![Alt text](<norm 1 out.png>)
+![norm 1 out](https://github.com/vinodhini-17/Norm-of-a-matrix/assets/145742741/14c15dea-c24e-411a-8ab5-b689bbced2ff)
+
 ### 2-Norm of a Matrix
-![Alt text](<norm 2 out.png>)
+![norm 2 out](https://github.com/vinodhini-17/Norm-of-a-matrix/assets/145742741/70cb5046-bf50-4a8e-a308-7cd3f65341e3)
+
 ### Infinity Norm of a Matrix
-![Alt text](<norm3  out.png>)
+![norm3  out](https://github.com/vinodhini-17/Norm-of-a-matrix/assets/145742741/d5f9e74c-6f1c-4faa-9230-d4bd30ae220d)
+
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
